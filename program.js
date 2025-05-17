@@ -1,5 +1,5 @@
 console.log("Juancazz")
 console.log("Santiago")
 console.log("Nicolas")
-console.log("Nicolas")
 console.error("Luis")
+console.log("Buenas tardes")
